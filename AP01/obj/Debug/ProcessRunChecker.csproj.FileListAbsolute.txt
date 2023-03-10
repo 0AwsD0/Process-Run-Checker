@@ -1,0 +1,11 @@
+C:\Users\AwsD\source\repos\AP01\AP01\bin\Debug\ProcessRunChecker.exe.config
+C:\Users\AwsD\source\repos\AP01\AP01\bin\Debug\ProcessRunChecker.exe
+C:\Users\AwsD\source\repos\AP01\AP01\bin\Debug\ProcessRunChecker.pdb
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\AP01.Form1.resources
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.Properties.Resources.resources
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.csproj.GenerateResource.cache
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.csproj.CoreCompileInputs.cache
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.exe
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.pdb
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.csproj.AssemblyReference.cache
+C:\Users\AwsD\source\repos\AP01\AP01\obj\Debug\ProcessRunChecker.csproj.SuggestedBindingRedirects.cache
