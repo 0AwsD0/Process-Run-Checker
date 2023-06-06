@@ -7,4 +7,4 @@ The game I played after playing some time would crash completely. No debug info,
 - it have nice design  - small window not taking too much space, and dark (not too dark) appearance
 - you can select checkbox to play windows 'beep' sound whenever process died
 
-You can download it for you privte use. If you make changes to the code and you want to share it, make a branch of this project. You have to include link to original repository on the top as shown here: Original repository: [link]
+You can download it for you privte use. If you make changes to the code and you want to share it, make a fork of this project. You have to include link to original repository on the top as shown here: Original repository: [link]
